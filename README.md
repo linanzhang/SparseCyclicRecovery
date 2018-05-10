@@ -10,4 +10,5 @@ Auxiliary functions:
   - lorenz96.m (ODE to Test)
 
 Authors: Hayden Schaeffer, Giang Tran, Rachel Ward, Linan Zhang
+
 Date: May 9, 2018
