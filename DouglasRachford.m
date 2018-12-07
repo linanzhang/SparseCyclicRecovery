@@ -3,7 +3,8 @@ function x = DouglasRachford(A,b,sigma,tau,mu,MaxIt,tol)
 % ============================================================
 % References:
 %   (1) Hayden Schaeffer, Giang Tran, Rachel Ward, Linan Zhang
-%   TBA
+%   Extracting structured dynamical systems using sparse optimization with very few samples
+%   https://arxiv.org/abs/1805.04158
 %   (2) Gabriel Peyre
 %   http://www.numerical-tours.com/matlab/sparsity_5_dictionary_learning_denoising/
 %
